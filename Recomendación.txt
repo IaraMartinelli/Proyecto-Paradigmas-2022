@@ -1,0 +1,1 @@
+Para evitar problemas con la ruta, recomendamos guardar esta carpeta en el disco c ('C:\Proyecto')
